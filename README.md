@@ -1,4 +1,5 @@
-# 📦 E-commerce Data Pipeline Project
+# 📦 E-commerce_Data_Pipeline_Database_
+Project
 
 This repository contains datasets, SQL database files, and an ETL script for an **E-commerce Data Pipeline**. The project extracts data from raw datasets, loads it into a MySQL database, and processes it using an ETL pipeline.
 
