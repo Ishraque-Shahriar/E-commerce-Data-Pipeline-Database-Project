@@ -90,9 +90,3 @@ mysql -u your_user -p your_database < E-commerce_DB.sql
 ## 🌟 Contribution & Usage
 - Fork this repository, make changes, and submit a Pull Request.
 - Feel free to use this for your own projects.
-
-📧 **For questions, contact [Your Email/Username]**
-
----
-
-© 2025 Your Name | **MIT License**
